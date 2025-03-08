@@ -75,7 +75,7 @@ We welcome contributions!
 ---
 
 ## 👥 **Contributors**  
-Thanks to all the wonderful people who have contributed to this project!  
+Thanks to all the wonderful people who have(or will) contributed to this project!  
 
 <table>
   <tr>
@@ -85,14 +85,12 @@ Thanks to all the wonderful people who have contributed to this project!
         <sub><b>0x73</b></sub>
       </a>
     </td>
-
-*(Add more contributors as needed by duplicating the `<td>` blocks.)*
+  </tr>
 
 ---
 
 ## 📬 **Contact**  
-💻 **Developer:** [Your Name](https://github.com/your-username)  
-📧 **Email:** your-email@example.com  
-🐦 **Twitter:** [@yourTwitter](https://twitter.com/yourTwitter)  
+💻 **Developer:** [0x73](https://www.github.com/0X73gh)  
+🐦 **Twitter:** [@0_x_73](https://x.com/0_x_73)  
 
 ---
